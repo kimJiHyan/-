@@ -7,7 +7,7 @@ object Constants {
     /**
      * 应用 标题
      */
-    const val APP_TITLE = "我的电视"
+    const val APP_TITLE = "한국생방송"
 
     /**
      * 应用 代码仓库
@@ -17,7 +17,7 @@ object Constants {
     /**
      * IPTV源地址
      */
-    const val IPTV_SOURCE_URL = "http://1.2.3.4/live.m3u"
+    const val IPTV_SOURCE_URL = "https://kimjihyan.github.io/tv-m3u8/korea2.m3u8"
 
     /**
      * IPTV源缓存时间（毫秒）
